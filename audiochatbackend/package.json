@@ -20,8 +20,7 @@
     "jsonwebtoken": "^9.0.2",
     "mongoose": "^8.9.2",
     "nodemon": "^3.1.9",
-    "socket.io": "^4.8.1",
-    "wrtc": "^0.4.7"
+    "socket.io": "^4.8.1"
   },
   "engines": {
     "node": "18.17.1"
