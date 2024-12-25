@@ -20,9 +20,10 @@
     "jsonwebtoken": "^9.0.2",
     "mongoose": "^8.9.2",
     "nodemon": "^3.1.9",
-    "socket.io": "^4.8.1"
+    "socket.io": "^4.8.1",
+    "webrtc": "^1.14.1"
   },
   "engines": {
-    "node": "18.17.1"
+    "node": "14.17.3"
   }
 }
